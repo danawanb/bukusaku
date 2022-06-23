@@ -12,10 +12,7 @@ export default function Jadwal() {
           alignItems: 'center',
           fontSize: '16px',
         }}>
-        <p>I saw you dancing in a crowded room (Uh)
-You look so happy when I'm not with you
-But then you saw me, caught you by surprise
-A single teardrop falling from your eye
+        <p>01010011 01100001 01110110 01100101 00100000 01111001 01101111 01110101 01110010 00100000 01110100 01100101 01100001 01110010 01110011 00100000 01100110 01101111 01110010 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010
       </p>
       </div>
     </Layout>
