@@ -20,3 +20,5 @@ let Jadwal = () => {
     </Layout>
      )
     }
+    
+    export default Jadwal
