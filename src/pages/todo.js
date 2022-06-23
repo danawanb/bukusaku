@@ -13,7 +13,14 @@ export default function Jadwal() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <table class="center">
+        <table         
+          style={{
+          justifyContent: 'center',
+          alignItems: 'center',
+          fontSize: '20px',
+          margin-left: auto;
+          margin-right: auto;
+           }}>
         <thead>
           <tr>
             <th>ssssssssssssssssssssssssss</th>
