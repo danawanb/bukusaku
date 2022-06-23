@@ -1,7 +1,6 @@
 ---
-title: Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
+title: Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN 
 sidebar_label: 13030101 – 13030202 – 18030101 – 18030202 Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
-pengelolaan keuangan APBN
 sidebar_position: 3
 ---
 
