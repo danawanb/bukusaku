@@ -13,9 +13,6 @@ export default function Jadwal() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <p>
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-        </p>
         <table>
         <thead>
           <tr>
