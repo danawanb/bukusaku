@@ -1,4 +1,5 @@
 # URL
 
-https://bukusaku.vercel.app_
+https://bukusaku.vercel.app
+
 https://bukusaku.netlify.app
