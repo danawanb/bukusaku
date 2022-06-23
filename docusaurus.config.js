@@ -25,7 +25,7 @@ module.exports = {
   projectName: 'bukusaku', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Logo DSP',
+      title: '',
       logo: {
         alt: 'Logo DSP',
         src: 'img/logodsp.png',
