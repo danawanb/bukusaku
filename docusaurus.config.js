@@ -37,9 +37,14 @@ module.exports = {
           label: 'Buku Saku',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Pengumuman', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {to: 'blog', label: 'Jadwal', position: 'left'},
+        {
           label: 'GitHub',
           position: 'right',
         },
