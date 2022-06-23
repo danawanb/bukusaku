@@ -16,9 +16,9 @@ export default function Hello() {
           asdasdadsdas
         </p>
         <Tabs className="unique-tabs">
-          <TabItem value="Apple">This is an apple 🍎</TabItem>
-          <TabItem value="Orange">This is an orange 🍊</TabItem>
-          <TabItem value="Banana">This is a banana 🍌</TabItem>
+          <TabItem value="冬が来た">aaaaaaaaaaaa</TabItem>
+          <TabItem value="白い樹樹の光を">aaaaaaaaaa</TabItem>
+          <TabItem value="adfasf">aaaaa</TabItem>
         </Tabs>
       </div>
     </Layout>
