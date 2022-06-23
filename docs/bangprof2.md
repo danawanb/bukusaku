@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# 13020101 – 13020102 – 13020201 – 13020202 – 18020101 – 18020102 – 18020201 – 18020202 Penerjemahan/penyaduran buku dan bahan lainnya di bidang pengelolaan keuangan APBN
-Penerjemahan/penyaduran buku dan bahan lainnya di bidang pengelolaan keuangan APBN
+#Penerjemahan/penyaduran buku dan bahan lainnya di bidang pengelolaan keuangan APBN 
+13020101 – 13020102 – 13020201 – 13020202 – 18020101 – 18020102 – 18020201 – 18020202 Penerjemahan/penyaduran buku dan bahan lainnya di bidang pengelolaan keuangan APBN
 ### 😿 Komponen Penilaian:
 1. Penilaian Dokumen
    - Surat Izin Penerjemahan/Penyaduran dari pemegang hak cipta/ahli waris pemegang
