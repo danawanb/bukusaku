@@ -1,7 +1,6 @@
 module.exports = {
-  someSidebar: {
-    'Unsur Pendidikan': ['doc1', 'doc2', 'doc3'],
+  tutorialSidebar: {
+    'Category A': ['doc1', 'doc2'],
   },
-    Features: ['mdx'],
-  },
+  apiSidebar: ['doc3', 'mdx'],
 };
