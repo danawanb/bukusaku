@@ -18,12 +18,12 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Sate Maranggi</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+<b>Sate Maranggi </b>  adalah satu dari sekian banyak khazanah kuliner Indonesia yang sudah mendunia.
+          Citarasa yang khas, tekstur yang empuk, menjadi salah-satu alasan Sate Maranggi menjadi kuliner yang populer
       </>
     ),
   },
