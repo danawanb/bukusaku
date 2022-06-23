@@ -1,5 +1,22 @@
+const today = new Date().getHours();
+
+
+let selamat = () => {
+
+  if (today < 11) {
+   return "Selamat Pagi"
+  } else if (today < 15) {
+    return "Selamat Siang"
+  } else if (today <= 18) {
+    return "Selamat Sore"
+  } else {
+    return "Selamat Malam"
+  }
+}
+
+
 module.exports = {
-  title: 'My Site',
+  title: `${selamat()}`,
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -30,38 +47,6 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} Subdit SPKPP, Direktorat Sistem Perbendaharaan.`,
     },
   },
