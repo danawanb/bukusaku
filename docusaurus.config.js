@@ -38,7 +38,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Pengumuman', position: 'left'},
-        {to: 'src/pages/todo/index.js', label: 'Jadwal', position: 'left'},
+        {to: 'todo', label: 'Jadwal', position: 'left'},
       ],
     },
     footer: {
@@ -63,6 +63,9 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        todo: {
+         //////
+        }
       },
     ],
   ],
