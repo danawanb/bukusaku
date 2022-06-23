@@ -4,8 +4,6 @@ title: 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
 sidebar_label: 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
 ---
 
-# 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
-
 ~~Seksi Standardisasi dan Pengembangan Kapasitas Pengelola Perbendaharaan II Mengundang Anda untuk hadir pada :
 Perihal :Rapat Pembahasan Formasi
 Waktu :14:00 s.d 17:00~~
