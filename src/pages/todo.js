@@ -16,6 +16,24 @@ export default function Jadwal() {
         <p>
           aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         </p>
+        <table>
+        <thead>
+          <tr>
+            <th>ssssssssssssssssssssssssss</th>
+            <th>ssssssssssssssssssssss</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>sdaaaaaaaaaaaa</td>
+            <td>asddddddddddddd</td>
+          </tr>
+          <tr>
+            <td>asddddddddd</td>
+            <td>asdddddddddddddd</td>
+          </tr>
+        </tbody>
+        </table>
       </div>
     </Layout>
   );
