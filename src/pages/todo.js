@@ -1,5 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 export default function Jadwal() {
   return (
