@@ -8,12 +8,12 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Bakso</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          <b>Bakso </b> adalah produk pangan yang terbuat dari bahan utama daging yang dilumatkan, dicampur dengan bahan lain, dibentuk bulatan,
+          dan selanjutnya direbus (Tazwir 1992).
       </>
     ),
   },
@@ -28,12 +28,12 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Tongseng</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          <b> Tongseng</b>  adalah sejenis gulai dengan bumbu yang lebih "tajam". Perbedaan yang lebih jelas adalah pada penggunaan dagingnya.
+          Tongseng dibuat dengan menggunakan daging yang masih melekat pada tulang, terutama tulang iga dan tulang belakang.
       </>
     ),
   },
@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/doc1')}>
-              Get Started
+              Baca Buku Saku 📰
             </Link>
           </div>
         </div>
