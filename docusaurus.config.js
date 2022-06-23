@@ -28,7 +28,7 @@ module.exports = {
       title: '',
       logo: {
         alt: 'Logo DSP',
-        src: 'img/logodsp.png',
+        src: 'img/logodsps.png',
       },
       links: [
         {
