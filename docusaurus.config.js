@@ -17,24 +17,24 @@ let selamat = () => {
 
 module.exports = {
   title: `${selamat()}`,
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'Nasi goreng adalah sebuah konsumsi berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin, biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk.',
+  url: 'https://bukusaku.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'danawanb', // Usually your GitHub org/user name.
+  projectName: 'bukusaku', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Logo DSP',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo DSP',
         src: 'img/logo.svg',
       },
       links: [
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Buku Saku',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
