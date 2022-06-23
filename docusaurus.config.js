@@ -38,7 +38,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Pengumuman', position: 'left'},
-        {to: 'src/pages/todo', label: 'Jadwal', position: 'left'},
+        {to: 'src/pages/todo/index.js', label: 'Jadwal', position: 'left'},
       ],
     },
     footer: {
