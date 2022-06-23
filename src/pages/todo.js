@@ -10,34 +10,9 @@ export default function Jadwal() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
+          justify-content:center;
         }}>
-        <table         
-          style={{
-          justifyContent: 'center',
-          alignItems: 'center',
-          fontSize: '20px',
-          margin-left: auto;
-          margin-right: auto;
-           }}>
-        <thead>
-          <tr>
-            <th>ssssssssssssssssssssssssss</th>
-            <th>ssssssssssssssssssssss</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>sdaaaaaaaaaaaa</td>
-            <td>asddddddddddddd</td>
-          </tr>
-          <tr>
-            <td>asddddddddd</td>
-            <td>asdddddddddddddd</td>
-          </tr>
-        </tbody>
-        </table>
+        <img src="https://awasbucket.s3.ap-southeast-3.amazonaws.com/136192f9-4348-4110-8f28-8bb5b04e4144.png"/>
       </div>
     </Layout>
   );
