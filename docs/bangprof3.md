@@ -1,9 +1,12 @@
 ---
+title: Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
+sidebar_label: 13030101 – 13030202 – 18030101 – 18030202 Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
+pengelolaan keuangan APBN
 sidebar_position: 3
 ---
 
-# 13030101 – 13030202 – 18030101 – 18030202 Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
-Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
+13030101 – 13030202 – 18030101 – 18030202 Penyusunan Ketentuan Pelaksanaan/Ketentuan Teknis di Bidang Pengelolaan Keuangan APBN
+
 ### 😿 Komponen Penilaian:
 1.	Penilaian Dokumen
       -	Pemenuhan Persyaratan (Surat Izin Penyusunan dari atasan langsung/SK Tim/Surat Tugas penyusunan Juklak/Juknis)
