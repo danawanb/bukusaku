@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
-sidebar_label: Unsur Pendidikan
+sidebar_label: 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
 ---
 
 # 11010101 Pendidikan Formal dan Memperoleh Ijazah/Gelar
