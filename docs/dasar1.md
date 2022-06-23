@@ -1,9 +1,7 @@
 ---
 id: dasar1
 title: Prinsip dasar
-sidebar_label: Prinsip dasar Penilaian untuk DUPA
----
-sidebar_position: 1
+sidebar_label: Prinsip dasar Penilaian untuk DUPAK
 ---
 
 # Prinsip dasar
