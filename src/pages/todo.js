@@ -13,7 +13,7 @@ export default function Jadwal() {
           height: '50vh',
           fontSize: '20px',
         }}>
-        <table>
+        <table class="center">
         <thead>
           <tr>
             <th>ssssssssssssssssssssssssss</th>
