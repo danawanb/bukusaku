@@ -1,4 +1,4 @@
-const today = new Date().getHours();
+const today = new Date().getHours()+7;
 
 
 let selamat = () => {
