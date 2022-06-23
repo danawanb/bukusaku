@@ -7,12 +7,16 @@ export default function Jadwal() {
     <Layout title="asd" description="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
       <div
         style={{
-          //display: 'flex',
+          display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
+          fontSize: '16px',
         }}>
-        <h1>01101000 01100001 01101000 01100001 01101000 01100001 01101000</h1>
-        <img src="https://awasbucket.s3.ap-southeast-3.amazonaws.com/136192f9-4348-4110-8f28-8bb5b04e4144.png"/>
+        <p>I saw you dancing in a crowded room (Uh)
+You look so happy when I'm not with you
+But then you saw me, caught you by surprise
+A single teardrop falling from your eye
+      </p>
       </div>
     </Layout>
   );
