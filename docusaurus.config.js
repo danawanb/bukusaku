@@ -55,7 +55,6 @@ module.exports = {
           // Please change this to your repo.
         },
         blog: {
-          showReadingTime: true,
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
         },
