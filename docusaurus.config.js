@@ -32,7 +32,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/dasar1',
           activeBasePath: 'docs',
           label: 'Buku Saku',
           position: 'left',
