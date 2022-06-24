@@ -30,13 +30,13 @@ const data = {
   ]
 };
 
-const styles = {
-  // bgColor: 'white',
-  titleTextColor: "blue",
-  rowTitleColor: "blue"
-  // rowContentColor: 'grey',
-  // arrowColor: "red",
-};
+// const styles = {
+//   // bgColor: 'white',
+//   titleTextColor: "blue",
+//   rowTitleColor: "blue"
+//   // rowContentColor: 'grey',
+//   // arrowColor: "red",
+// };
 
 const config = {
   // animate: true,
@@ -50,18 +50,13 @@ export default function BukanJadwal() {
     <Layout title="FAQu" description="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
       <div
         style={{
-          display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
           fontSize: '16px',
     marginTop:'auto',
      marginBottom:'auto',
         }}>
-        <p>01010011 01100001 01110110 01100101 00100000 01111001 01101111 01110101 01110010 00100000 01110100 01100101 01100001 01110010 01110011 00100000 01100110 01101111 01110010 00100000 01100001 01101110 01101111 01110100 01101000 01100101 01110010
-      </p>
-    <div>
       <Faq data={data} styles={styles} config={config} />
-    </div>
       </div>
     </Layout>
   );
