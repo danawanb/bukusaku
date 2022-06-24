@@ -56,7 +56,7 @@ export default function BukanJadwal() {
     marginTop:'auto',
      marginBottom:'auto',
         }}>
-      <Faq data={data} styles={styles} config={config} />
+      <Faq data={data} config={config} />
       </div>
     </Layout>
   );
