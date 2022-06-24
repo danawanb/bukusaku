@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Layout from '@theme/Layout';
 import Faq from "react-faq-component";
-//import styles from './styles.module.css';
+import styles from './styles.module.css';
 const data = {
   title: "FAQ (How it works)",
   rows: [
@@ -31,13 +31,13 @@ const data = {
   ]
 };
 
-const styles = {
-   bgColor: 'transparent',
-//   titleTextColor: "blue",
-//   rowTitleColor: "blue"
-//   // rowContentColor: 'grey',
-//   // arrowColor: "red",
-};
+// const styles = {
+//    bgColor: 'transparent',
+// //   titleTextColor: "blue",
+// //   rowTitleColor: "blue"
+// //   // rowContentColor: 'grey',
+// //   // arrowColor: "red",
+// };
 
 const config = {
   // animate: true,
@@ -51,11 +51,12 @@ export default function BukanJadwal() {
     <Layout title="FAQu" description="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa">
       <div
         style={{
-          justifyContent: 'center',
-          alignItems: 'center',
-          fontSize: '16px',
-    marginTop:'auto',
-     marginBottom:'auto',
+            justifyContent: 'center',
+            alignItems: 'center',
+      backgroundColor : 'transparet',
+            fontSize: '16px',
+      marginTop:'auto',
+       marginBottom:'auto',
         }}>
       <Faq data={data} styles={styles} config={config} />
       </div>
