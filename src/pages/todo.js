@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Layout from '@theme/Layout';
 import Faq from "react-faq-component";
-import styles from './styles.module.css';
+//import styles from './styles.module.css';
 const data = {
   title: "FAQ (How it works)",
   rows: [
@@ -58,7 +58,7 @@ export default function BukanJadwal() {
       marginTop:'auto',
        marginBottom:'auto',
         }}>
-      <Faq data={data} styles={styles} config={config} />
+      <Faq data={data}/>
       </div>
     </Layout>
   );
