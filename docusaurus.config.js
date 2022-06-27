@@ -60,18 +60,11 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+         '@easyops-cn/docusaurus-search-local',
         },
         todo: {
          //////
         }
-      },
-    ],
-  ],
-    plugins: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        hashed: true,
       },
     ],
   ],
