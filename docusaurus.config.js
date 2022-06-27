@@ -66,6 +66,6 @@ module.exports = {
         },
       },
     ],
-    '@easyops-cn/docusaurus-search-local',
   ],
+  plugins: [require.resolve("@easyops-cn/docusaurus-search-local")],
 };
