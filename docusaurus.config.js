@@ -68,7 +68,7 @@ module.exports = {
     ],
   ],
   plugins: [
-    [require("path").join(__dirname, "..", "..", "node_modules", "@cmfcmf", "docusaurus-search-local"), {
+    [require("path").join(__dirname, "..", "..", "/vercel/path0/node_modules", "@cmfcmf", "docusaurus-search-local"), {
       indexPages: true
     }],
   ]
