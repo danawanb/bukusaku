@@ -60,7 +60,7 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-         '@easyops-cn/docusaurus-search-local',
+         '@easyops-cn/docusaurus-search-local'
         },
         todo: {
          //////
