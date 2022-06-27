@@ -67,13 +67,11 @@ module.exports = {
       },
     ],
   ],
-  themes: [
+    plugins: [
     [
-      '@easyops-cn/docusaurus-search-local',
+      require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         hashed: true,
-        highlightSearchTermsOnTargetPage: true,
-        explicitSearchResultPath: true,
       },
     ],
   ],
