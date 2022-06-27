@@ -69,7 +69,7 @@ module.exports = {
   ],
   themes: [
     [
-      "@easyops-cn/docusaurus-search-local",
+      '@easyops-cn/docusaurus-search-local',
       {
         hashed: true,
         highlightSearchTermsOnTargetPage: true,
