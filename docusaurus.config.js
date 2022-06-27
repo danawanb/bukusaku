@@ -67,5 +67,9 @@ module.exports = {
       },
     ],
   ],
-  plugins: [require.resolve("@easyops-cn/docusaurus-search-local")],
+  plugins: [
+    [require("path").join(__dirname, "..", "..", "node_modules", "@cmfcmf", "docusaurus-search-local"), {
+      indexPages: true
+    }],
+  ]
 };
